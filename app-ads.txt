@@ -101,3 +101,11 @@ xandr.com, 15507, RESELLER, f5ab79cb980f11d1
 adswizz.com, 666, RESELLER
 audiomob.com, af1ac5336f59136a3bed70d9829d799, RESELLER, 4b0cec5c9072d7d7
 missionmedia.ai, 1507794, RESELLER
+appnexus.com, 15670, RESELLER
+eskimi.com, 2020000810, RESELLER
+lijit.com, 502284, RESELLER
+rubiconproject.com, 26250, RESELLER
+shortiz.tv, SHTZ1000010, RESELLER
+smaato.com, 1100060672, RESELLER, 07bcf65f187117b4
+smartadserver.com, 4998, RESELLER
+video.unrulymedia.com, 107383778, RESELLER
